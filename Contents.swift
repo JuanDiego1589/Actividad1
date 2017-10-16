@@ -8,13 +8,15 @@ for i in 0...100{
     }
     if(i%2 == 0){
         print("\(i) par")
-    }
-    else{
+    } else{
         print("\(i) impar")
     }
     if (i<=40 && i>=30){
         print("\(i) Viva Swift")
     }
+    
+    print ("Lo que sea")
+    
 }
 
 
