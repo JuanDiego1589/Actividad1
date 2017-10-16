@@ -15,8 +15,6 @@ for i in 0...100{
         print("\(i) Viva Swift")
     }
     
-    print ("Lo que sea")
-    
 }
 
 
