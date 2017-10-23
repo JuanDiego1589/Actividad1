@@ -11,7 +11,7 @@ for i in 0...100{
     } else{
         print("\(i) impar")
     }
-    if (i<=40 && i>=30){
+    if (i<=40 && i>=20){
         print("\(i) Viva Swift")
     }
     
